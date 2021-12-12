@@ -40,7 +40,7 @@ JSP, Servlet, Hibernate
 * #### Get payment data
 
 ```http
-   https://api.razorpay.com/v1
+   https://api.razorpay.com/v1/payment
 ```
 * You need to include this before each API endpoint to make API calls.
 * All Razorpay APIs are authenticated using Basic Auth. Basic auth requires the following:
