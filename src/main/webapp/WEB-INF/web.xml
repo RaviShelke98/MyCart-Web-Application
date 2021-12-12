@@ -1,0 +1,77 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>RegisterServlet</servlet-name>
+  	<display-name>RegisterServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.ravi.mycart.servlets.RegisterServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>LoginServlet</servlet-name>
+  	<display-name>LoginServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.ravi.mycart.servlets.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>LogOutServlet</servlet-name>
+  	<display-name>LogOutServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.ravi.mycart.servlets.LogOutServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ProductOperationServlet</servlet-name>
+  	<display-name>ProductOperationServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.ravi.mycart.servlets.ProductOperationServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>CreateOrder</servlet-name>
+  	<display-name>CreateOrder</display-name>
+  	<description></description>
+  	<servlet-class>com.ravi.mycart.servlets.CreateOrder</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>CreateOrders</servlet-name>
+  	<display-name>CreateOrders</display-name>
+  	<description></description>
+  	<servlet-class>com.ravi.mycart.servlets.CreateOrder</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>SaveOrderDetails</servlet-name>
+  	<display-name>SaveOrderDetails</display-name>
+  	<description></description>
+  	<servlet-class>com.ravi.mycart.servlets.SaveOrderDetails</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>RegisterServlet</servlet-name>
+  	<url-pattern>/RegisterServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>LoginServlet</servlet-name>
+  	<url-pattern>/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>LogOutServlet</servlet-name>
+  	<url-pattern>/LogOutServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ProductOperationServlet</servlet-name>
+  	<url-pattern>/ProductOperationServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>CreateOrder</servlet-name>
+  	<url-pattern>/CreateOrder</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>CreateOrders</servlet-name>
+  	<url-pattern>/CreateOrders</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>SaveOrderDetails</servlet-name>
+  	<url-pattern>/SaveOrderDetails</url-pattern>
+  </servlet-mapping>
+</web-app>

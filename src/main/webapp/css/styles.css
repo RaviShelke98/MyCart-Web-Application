@@ -1,0 +1,133 @@
+.mycart-logo {
+  max-width: 100px;
+  height: 35px;
+}
+
+.fontMycart {
+  font-family:Brush Script MT, Brush Script Std, cursive;
+  font-weight: bold;
+  color: blue;
+}
+
+.nav_bg{
+	background:#FCE4EC;
+}
+
+.nav_font{
+	color:#e60000;
+}
+
+.reg-form-title {
+	font-family: Bodoni MT;
+	font-weight: bold;
+	color: #009688;
+}
+
+.log-form-title{
+	font-family: Bodoni MT;
+	font-weight: bold;
+	color:#1A237E;
+}
+
+.reg-photo{
+	flex-basis: 40%
+	max-width:100px;
+	height:45px;
+}
+
+.container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.regLink:link{
+	text-decoration: none;
+    color:red;
+}
+
+.admin .hover-card:hover{
+	transform: scale(1.1);
+}
+.admin-head-css{
+	font-family:New Century Schoolbook, TeX Gyre Schola, serif;
+   background: #1117CF;
+background: -webkit-linear-gradient(to bottom right, #1117CF 39%, #00E5FF 56%, #3125CF 100%);
+background: -moz-linear-gradient(to bottom right, #1117CF 39%, #00E5FF 56%, #3125CF 100%);
+background: linear-gradient(to bottom right, #1117CF 39%, #00E5FF 56%, #3125CF 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+
+.add-category-title{
+font-family:Bookman, URW Bookman L, serif;
+
+background: #0C0CCF;
+background: -webkit-linear-gradient(to bottom right, #0C0CCF 13%, #CF0A0A 66%);
+background: -moz-linear-gradient(to bottom right, #0C0CCF 13%, #CF0A0A 66%);
+background: linear-gradient(to bottom right, #0C0CCF 13%, #CF0A0A 66%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #FF3D00;
+    border-color: #FF3D00;
+}
+
+.btn-custom{
+	 color: #fff;
+    background-color: #FF3D00;
+    border-color: #FF3D00;
+}
+
+.add-category-title2{
+font-family:Bookman, URW Bookman L, serif;
+
+background: #0C0CCF;
+background: -webkit-linear-gradient(to bottom right, #0C0CCF 13%, #CF0A0A 66%);
+background: -moz-linear-gradient(to bottom right, #0C0CCF 13%, #CF0A0A 66%);
+background: linear-gradient(to bottom right, #0C0CCF 13%, #CF0A0A 66%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+/*Toast*/
+
+
+#toast{
+           min-width: 300px;
+           position: fixed;
+           top: 30px;
+           left: 50%;
+           margin-left: -120px;
+           background: #F5F5F5;
+           padding: 15px;
+           text-align: center;
+           z-index: auto;
+           font-size: 18px;
+           color: #00;
+           visibility: hidden;
+           border: 1px solid black;
+           box-shadow: 5px 10px 18px #FFAB91;
+         }
+
+         #toast.display{
+             visibility: visible;
+             animation: fadeIn 0.5s, fadeOut 0.5s 2.5s;
+         }
+
+         @keyframes fadeIn {
+             from{ top: 0; opacity: 0;}
+             to{ top: 30px; opacity: 1;}
+         }
+
+         @keyframes fadeOut {
+             from{top:30px; opacity: 1;}
+             to{top: 0; opacity: 0;}
+         }
+
+	
