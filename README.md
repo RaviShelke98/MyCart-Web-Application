@@ -82,5 +82,7 @@ JSP, Servlet, Hibernate
 
 
 ### Video Demo
-[![MyCart Demo Video](https://img.youtube.com/vi/PQ3EVZ0nlT0/0.jpg)](https://www.youtube.com/watch?v=PQ3EVZ0nlT0)
-</p>
+   
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MyCart Demo Video](https://img.youtube.com/vi/PQ3EVZ0nlT0/0.jpg )](https://www.youtube.com/watch?v=PQ3EVZ0nlT0)
+
