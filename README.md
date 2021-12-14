@@ -74,7 +74,7 @@ JSP, Servlet, Hibernate
 
 
 ### Screenshots
-
+<p align="center">
 ![Screenshot (159)](https://user-images.githubusercontent.com/72797331/145719668-6199400f-4d54-4054-bf17-f546fbe52229.png)
 ![Screenshot (160)](https://user-images.githubusercontent.com/72797331/145719693-0eac48fc-d50a-462e-a406-568553e3b82b.png)
 ![Screenshot (161)](https://user-images.githubusercontent.com/72797331/145719699-b128fca7-a55c-438a-81b6-ed3d9b71d74c.png)
@@ -82,4 +82,5 @@ JSP, Servlet, Hibernate
 
 
 ### Video Demo
-[![MyCart Demo Video](https://user-images.githubusercontent.com/72797331/145719668-6199400f-4d54-4054-bf17-f546fbe52229.png)](https://www.youtube.com/watch?v=PQ3EVZ0nlT0)
+[![MyCart Demo Video](https://img.youtube.com/vi/PQ3EVZ0nlT0/0.jpg)](https://www.youtube.com/watch?v=PQ3EVZ0nlT0)
+</p>
