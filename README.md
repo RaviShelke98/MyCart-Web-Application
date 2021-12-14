@@ -82,9 +82,4 @@ JSP, Servlet, Hibernate
 
 
 ### Video Demo
-&nbsp; **1. Customer Panel :**
-
-
-
-&nbsp; **1. Admin Panel :**
-
+[![MyCart Demo Video](https://user-images.githubusercontent.com/72797331/145719668-6199400f-4d54-4054-bf17-f546fbe52229.png)](https://www.youtube.com/watch?v=PQ3EVZ0nlT0)
