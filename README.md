@@ -79,7 +79,7 @@ JSP, Servlet, Hibernate
 ![Screenshot (160)](https://user-images.githubusercontent.com/72797331/145719693-0eac48fc-d50a-462e-a406-568553e3b82b.png)
 ![Screenshot (161)](https://user-images.githubusercontent.com/72797331/145719699-b128fca7-a55c-438a-81b6-ed3d9b71d74c.png)
 ![Screenshot (162)](https://user-images.githubusercontent.com/72797331/145719858-03119025-2857-4d32-a6aa-d29a3acd5be4.png)
-
+</p>
 
 ### Video Demo
    
